@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "55c92600-3891-46b0-88fe-482423e73d04",
+  "files": [],
+  "subMetas": {
+    "82a1c": {
+      "importer": "gltf-mesh",
+      "uuid": "55c92600-3891-46b0-88fe-482423e73d04@82a1c",
+      "displayName": "",
+      "id": "82a1c",
+      "name": "potion_holder.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 310
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f34b": {
+      "importer": "gltf-material",
+      "uuid": "55c92600-3891-46b0-88fe-482423e73d04@4f34b",
+      "displayName": "",
+      "id": "4f34b",
+      "name": "darkwood.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b3ba6": {
+      "importer": "gltf-scene",
+      "uuid": "55c92600-3891-46b0-88fe-482423e73d04@b3ba6",
+      "displayName": "",
+      "id": "b3ba6",
+      "name": "Holder.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "55c92600-3891-46b0-88fe-482423e73d04@82a1c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "55c92600-3891-46b0-88fe-482423e73d04@4f34b"
+      ],
+      "scenes": [
+        "55c92600-3891-46b0-88fe-482423e73d04@b3ba6"
+      ]
+    }
+  }
+}
