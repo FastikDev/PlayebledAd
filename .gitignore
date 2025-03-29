@@ -5,8 +5,8 @@
 library/
 temp/
 local/
-profiles/
 native
+profiles/
 #//////////////////////////
 # NPM
 #//////////////////////////
